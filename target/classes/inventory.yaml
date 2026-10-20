@@ -1,0 +1,27 @@
+warehouse: Tunis-North
+products:
+  - sku: KB-1001
+    name: Mechanical keyboard
+    quantity: 42
+    unitPrice: 89.90
+    tags: [peripherals, office]
+  - sku: MS-2040
+    name: Wireless mouse
+    quantity: 7
+    unitPrice: 24.50
+    tags: [peripherals]
+  - sku: MN-2701
+    name: 27-inch monitor
+    quantity: 3
+    unitPrice: 279.00
+    tags: [displays, office]
+  - sku: CB-0310
+    name: USB-C cable 1m
+    quantity: 150
+    unitPrice: 6.99
+    tags: [cables]
+  - sku: DK-5500
+    name: Docking station
+    quantity: 12
+    unitPrice: 149.00
+    tags: [peripherals, office]

@@ -1,0 +1,7 @@
+/app/src/main/java/com/cbtw/demo/inventory/App.java
+/app/src/main/java/com/cbtw/demo/inventory/Inventory.java
+/app/src/main/java/com/cbtw/demo/inventory/InventoryLoader.java
+/app/src/main/java/com/cbtw/demo/inventory/InventoryService.java
+/app/src/main/java/com/cbtw/demo/inventory/NotificationFormatter.java
+/app/src/main/java/com/cbtw/demo/inventory/Product.java
+/app/src/main/java/com/cbtw/demo/inventory/ReportWriter.java

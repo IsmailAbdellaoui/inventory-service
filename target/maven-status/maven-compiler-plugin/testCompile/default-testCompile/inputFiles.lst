@@ -1,0 +1,4 @@
+/app/src/test/java/com/cbtw/demo/inventory/InventoryLoaderTest.java
+/app/src/test/java/com/cbtw/demo/inventory/InventoryServiceTest.java
+/app/src/test/java/com/cbtw/demo/inventory/NotificationFormatterTest.java
+/app/src/test/java/com/cbtw/demo/inventory/ReportWriterTest.java

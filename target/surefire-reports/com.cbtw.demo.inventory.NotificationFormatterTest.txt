@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cbtw.demo.inventory.NotificationFormatterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.060 s -- in com.cbtw.demo.inventory.NotificationFormatterTest
